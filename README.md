@@ -1,2 +1,0 @@
-# RecipeBrowserPsuedoMobileApp
-Created with CodeSandbox
